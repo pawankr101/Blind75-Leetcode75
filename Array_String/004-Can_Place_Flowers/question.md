@@ -20,4 +20,3 @@ Given an integer array `flowerbed` containing `0`'s and `1`'s, where `0` means e
    * flowerbed[i] is 0 or 1.
    * There are no two adjacent flowers in `flowerbed`.
    * 0 <= n <= flowerbed.length
-
