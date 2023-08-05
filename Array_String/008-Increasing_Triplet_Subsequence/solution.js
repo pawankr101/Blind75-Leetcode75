@@ -13,7 +13,7 @@ var increasingTriplet = function(nums) {
     }
     return false;
 };
-console.log(increasingTriplet([20,100,10,12,5,13])); // => true
+// console.log(increasingTriplet([20,100,10,12,5,13])); // => true
 // console.log(increasingTriplet([0,4,2,1,0,-1,-3])); // => false
 // console.log(increasingTriplet([5,1,6])); // => false
 // console.log(increasingTriplet([1,2,2,1])); // => false
