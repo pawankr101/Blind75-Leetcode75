@@ -21,7 +21,7 @@ Return the maximum number of operations you can perform on the array.
     There are no more pairs that sum up to 6, hence a total of 1 operation.
 
 ## Constraints:
-  * 1 <= nums.length <= 105
-  * 1 <= nums[i] <= 109
-  * 1 <= k <= 109
+  * 1 <= nums.length <= 10<sup>5</sup>
+  * 1 <= nums[i] <= 10<sup>9</sup>
+  * 1 <= k <= 10<sup>9</sup>
 
